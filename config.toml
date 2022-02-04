@@ -1,3 +1,17 @@
-baseURL = 'http://example.org/'
+baseURL = 'https://seasons.ally.id/'
 languageCode = 'en-us'
-title = 'My New Hugo Site'
+title = 'Seasons'
+theme = 'maddybook'
+
+[permalinks]
+    post = '/:filename/'
+
+[params]
+    author = 'Madison Scott-Clary'
+    home = 'https://makyo.ink'
+    copyright = 2021
+    customCSS = ['seasons.css']
+
+[markup.goldmark.renderer]
+    unsafe = true
+

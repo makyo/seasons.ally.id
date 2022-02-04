@@ -1,0 +1,60 @@
+@import url('https://fonts.googleapis.com/css2?family=Gentium+Basic:ital,wght@0,400;0,700;1,400;1,700&family=Zen+Kurenaido&display=swap');
+
+body * {
+    font-family: "Gentium Basic", serif;
+}
+
+h1, h1 a, h2 {
+    font-family: "Zen Kurenaido", sans-serif !important;
+}
+
+main {
+    font-size: 12pt !important;
+    line-height: 1.8;
+}
+main blockquote {
+    border: none;
+}
+.next {
+    font-family: "Zen Kurenaido", sans-serif !important;
+    display: block;
+    margin: 0 auto;
+    font-size: 40pt;
+    text-align: center;
+    text-decoration: none;
+    font-family: sans-serif;
+}
+
+.modal {
+  display: none;
+}
+.modal.active {
+  display: block;
+  position: fixed;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100vh;
+  background-color: rgba(0,0,0,0.2);
+}
+.modal.active aside {
+  position: relative;
+  background-color: #fff;
+  display: block;
+  border: 1px solid #333;
+  box-shadow: 2px 2px 4px rgba(0,0,0,0.5);
+  max-width: calc(640px - 1rem);
+  margin: 0.5rem auto;
+  padding: 0.5rem;
+  max-height: calc(100vh - 2rem);
+  overflow: scroll;
+}
+.modal.active aside aside {
+  background-color: #eee;
+}
+.modal aside q:before, .modal aside q:after {
+  content: '';
+}
+.modal aside h3 {
+  text-align: center;
+}
