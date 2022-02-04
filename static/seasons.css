@@ -56,7 +56,7 @@ main blockquote {
   display: block;
   border: 1px solid #333;
   box-shadow: 2px 2px 4px rgba(0,0,0,0.5);
-  max-width: calc(640px - 1rem);
+  max-width: calc(640px - 2rem);
   margin: 0.5rem auto;
   padding: 0.5rem;
   max-height: calc(100vh - 2rem);
