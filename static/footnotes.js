@@ -31,6 +31,6 @@ document.querySelectorAll('.footnote-ref').forEach((fnRef) => {
     modal.querySelector('q').innerHTML = footnotes[id];
     modal.querySelector('h3').innerText = id.split(':')[1];
     modal.classList.add('active');
-    aside.style.top = `max(calc(50vh - ${aside.clientHeight}px / 2), 0px)`;
+    aside.style.top = `max(calc(50vh - 1rem - ${aside.clientHeight}px / 2), 0px)`;
   };
 });

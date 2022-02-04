@@ -8,6 +8,19 @@ h1, h1 a, h2 {
     font-family: "Zen Kurenaido", sans-serif !important;
 }
 
+a, a:active, a:hover, a:visited {
+    color: #555;
+}
+a.footnote-ref {
+    font-weight: bolder;
+    text-decoration: none;
+    background-color: #ddd;
+    margin: 1px;
+    padding: 1px;
+    border: 1px solid transparent;
+    border-radius: 2px;
+}
+
 main {
     font-size: 14pt !important;
     line-height: 1.8;
