@@ -8,12 +8,11 @@ Our years are delineated by the seasons, though, and the count of them is so few
 
 The power of the cyclical nature of the year is of an importance that draws the heart onward, and that which moves the heart is fair game for poetry. The demarcations for this cycle are the two solstices and two the equinoxes. One finds oneself at the longest night of the year and knows that, from there onwards, it is downhill into summer.[^2] One finds oneself at the longest day of the year and before oneself lies cooler times.
 
-Dwale (1979--2021; it/its) was a poet living in the Southern United States. It was moderator of and, for a term, president of the Furry Writers' Guild, and was known for facilitating the 'coffeehouse chats', hour-long lectures surrounding various writing topics that took place twice a week. Its work is described as focusing on "altered states of consciousness\...poverty, addiction, subjectivity, and the transience of existence" [@dwale], though to reduce its body of work to any or all of those provides an inexact picture of its writing. This will be touched on in a future section on translation, but needless to say, this paper will focus on its work through the lens of seasonal progression.
+Dwale (1979--2021; it/its) was a poet living in the Southern United States. It was moderator of and, for a term, president of the Furry Writers' Guild, and was known for facilitating the 'coffeehouse chats', hour-long lectures surrounding various writing topics that took place twice a week. Its work is described as focusing on "altered states of consciousness\...poverty, addiction, subjectivity, and the transience of existence" (WikiFur, n.d.), though to reduce its body of work to any or all of those provides an inexact picture of its writing. This will be touched on in a future section on translation, but needless to say, this paper will focus on its work through the lens of seasonal progression.
 
 The concept of seasons and seasonality is well known within poetry. Exploring that is beyond the scope of this paper.[^3] To rely on synecdoche is the best one can manage with a topic so large. To that end, it is worth exploring the poetry of Dwale in such a context.
 
-Spring {#spring .unnumbered}
-======
+# Spring {#spring .unnumbered}
 
 Spring is commonly associated with newness and beginnings. New growth, new life, new warmth under a new sun. A season of green things: of buds greening bare trees, of grass poking through late snows, or perhaps the greenery of gardening as one buys flats of flowers or sows vegetable seeds in the expectation of a harvest later on.
 
@@ -27,7 +26,7 @@ Although it often engaged with expectations in its work, Dwale tackles the subje
 > Down to the hawks and kudzu\
 > Six months 'til winter
 >
-> [@dwale_haiku]
+> (Dwale 2018)
 
 While we are verging into the territory of summer here, as "six months 'til winter" implies, we do get a sense of those expectations settling into place, a feeling of "ah, so the year is going to be like *this*". We also get that sense of growth and greenness with the mention of kudzu, a plant known for its rampant growth, quickly covering all it can in green.
 
@@ -37,7 +36,7 @@ Blackbirds, while often showing up in the context of winter, do occasionally mak
 > The river is moving.\
 > The blackbird must be flying.
 >
-> [@blackbird]
+> (Stevens 1917)
 
 wherein the thought of a river moving again being of note implies a thaw after a long winter, a world in which this could not possibly be the case without the blackbird also flying. There is a movement thawed, here.
 
@@ -62,7 +61,7 @@ This untitled work will stand as our example:
 > She walks away rememb'ring days they stalked the plains,\
 > Within her womb there grows a golden bloom.
 >
-> [@leaves 26]
+> (Dwale 2019, 26)
 
 This poem[^6] in three stanzas is largely in an even meter (sometimes iambic, sometimes trochaic), though we are presented with two instances in the first lines of the first two stanzas where that pattern is broken ("The seasonal storms": ˘ -- ˘ ˘ and "And here, wrapped in rain": ˘ -- -- ˘ --). When this is taken with the middle verse's assonance and rhymes, we pick up a sense of a stumble mid-gallop. Although the procession of time may be linear, the procession of the seasons may be interrupted by little stalls, little snowy loops back into winter as spring presses on towards summer.
 
@@ -80,7 +79,7 @@ Issa says,
 > mark the passing of our day ---\
 > we bind ourselves to others
 >
-> [@issa 11]
+> (Issa and Mackenzie 1957, 11)
 
 Spring is nothing without Winter. Even when it has its own snows, Spring is what it is specifically because it isn't Winter. There's that vernal equinox and then suddenly the days are longer than the nights, the world begins anew, and all that is in it does so as well. As with us: we are nothing without those around us, and we are us specifically because of those in our lives. There is our meeting and then suddenly that which makes us *us* is fuller than before, and we carry within us the golden bloom of who we are to become.
 
@@ -100,16 +99,15 @@ Issa says,
 > the winds of the floating world ---\
 > drifting and drifting
 >
-> [@issa 18]
+> (Issa and Mackenzie 1957, 18)
 
 There is some world that is not ours superimposed on the one we live in. This floating world is that which shows plants as the thirsty mouths that they are, shows the floating weeds as integral parts of the world, rather than some thing to be removed.[^8] Perhaps this is the one that plants experience most clearly, where Spring may nudge Winter and, finding him dead, walk out into new grass and memories.
 
 It is this world that poetry most clearly provides a glimpse into. It contains those symbols which pass fleetingly through our lives, drifting on by as the seasons progress.
 
-"Here is the difference betwixt the poet and the mystic," Emerson cautions. "That the last nails a symbol to one sense, which was a true sense for a moment, but soon becomes old and false.[^9] For all symbols are fluxional." [@emerson 33] We have in Dwale's work a glimpse of the symbol of the hard death of Winter, of Spring with Summer in her belly.
+"Here is the difference betwixt the poet and the mystic," Emerson cautions. "That the last nails a symbol to one sense, which was a true sense for a moment, but soon becomes old and false.[^9] For all symbols are fluxional." (Emerson 1890, 33) We have in Dwale's work a glimpse of the symbol of the hard death of Winter, of Spring with Summer in her belly.
 
-Summer {#summer .unnumbered}
-======
+# Summer {#summer .unnumbered}
 
 As the year continues on its upward spiral, we come to one of those strange apogees of the longest day. Strange because yes, of course it bears meaning as the longest day, and yet the start of Summer never seems to fall directly on that day, does it? There is doubtless some good reason that, at least here, that is the first day of summer rather than midsummer.
 
@@ -130,7 +128,7 @@ And yet even that isn't always accurate, is it? Some years, summer doesn't feel 
 > I bandage my tattered, bitten left hand\
 > And shed the smoke rings on my cloven finger.
 >
-> [@leaves 8]
+> (Dwale 2019, 8)
 
 The poem follows a similar structure to that chosen for Spring: three stanzas of four lines each, often falling back into a stressed-unstressed (or vice versa) meter, though far more free. We have a few more near rhymes, ('at all' and 'for fall', and, to a lesser extent, 'dreamer' and 'finger'), plus a few pleasing instances of alliteration ('*cri*-*cket*...ci-*ca*-**das**...*ka*-ty-**dids**').
 
@@ -146,7 +144,7 @@ Issa says,
 > Stands the slender maiden flower\
 > In a solitary humor
 >
-> [@issa 65]
+> (Issa and Mackenzie 1957, 65)
 
 The slender maiden flower is the slender maiden flower. We have no say in its existence except that we might pick it, trample it, or leave it be. It is itself, in all its glory --- or at least all its solitary humor. The flower defines itself and though we may take action on it, may think it beautiful or ugly or lonely or austere, that doesn't matter to the flower.[^12]
 
@@ -162,7 +160,7 @@ Issa says,
 > Marks our own closing day ---\
 > We take this evening's cool
 >
-> [@issa 39]
+> (Issa and Mackenzie 1957, 39)
 
 This is the inverse, the other pole of our spectrum. Whether or not the bell tolls for us and our day, whether or not the evening's cool is of that floating world, we still can define ourselves and our actions in the face of it. We are the ones who can take that cool as some small respite from the hot insomnia that the Summer might otherwise offer. We can define ourselves in that context, and by that, we can define the world around us.
 
@@ -176,11 +174,41 @@ But that cannot be all. There has to be more than the external and natural, that
 > Even the bawds of euphony\
 > Would cry out sharply.
 >
-> [@blackbird]
+> (Stevens 1917)
 
 It is the act of taking meaning from each other, as well, for each of us has our own agency: we can interact with each other and influence each other's definitions of ourselves.[^14]
 
 As that golden bloom of Summer defines itself as all things must, and we have to take it at its word. We can kvetch about the insomnia of Summer, that which makes us sweat through the sheets so that the thought of touching someone else makes one feel clammy and disgusting[^15] all we want, but that doesn't mean anything to Summer. It just also doesn't stop us from layering our own definitions atop that.
+
+::: {#refs .references .csl-bib-body .hanging-indent}
+::: {#ref-dwale_haiku .csl-entry}
+Dwale. 2018. "*Untitled Haiku*." <https://twitter.com/ThornAppleCider/status/1009137826250625029>.
+:::
+
+::: {#ref-leaves .csl-entry}
+---------. 2019. *Face down in the Leaves*. Weasel Press.
+:::
+
+::: {#ref-emerson .csl-entry}
+Emerson, Ralph Waldo. 1890. *Essays: Second Series*. Henry Altemus Company.
+:::
+
+::: {#ref-issa .csl-entry}
+Issa, Kobayashi, and (Trans.) Mackenzie Lewis. 1957. *The Autumn Wind: A Selection of Poems by Issa*. John Murray (Publishers) Ltd.
+:::
+
+::: {#ref-memorial .csl-entry}
+Scott-Clary, Madison et al. 2021. "In Memory of Dwale." <https://forums.furrywritersguild.com/t/in-memory-of-dwale/2359>.
+:::
+
+::: {#ref-blackbird .csl-entry}
+Stevens, Wallace. 1917. "Thirteen Ways of Looking at a Blackbird." <https://en.wikisource.org/wiki/Thirteen_Ways_of_Looking_at_a_Blackbird>.
+:::
+
+::: {#ref-dwale .csl-entry}
+WikiFur. n.d. "Dwale." <https://en.wikifur.com/wiki/Dwale>.
+:::
+:::
 
 [^1]: Scientists have described the 'scent of snow' as the air being too cold for the olfactory system to register scents.
 
@@ -190,7 +218,7 @@ As that golden bloom of Summer defines itself as all things must, and we have to
 
 [^4]: Or perhaps later in life, when cancer may rear its ugly head. It is proving quite difficult to write about even seasons of new growth and beginnings without death-thoughts creeping in.
 
-[^5]: When its friends learned of its passing, many of us decided to memorialize it with poetry of our own [@memorial]. While I lack the feel, my attempt also incorporated the loss of breath:
+[^5]: When its friends learned of its passing, many of us decided to memorialize it with poetry of our own (Scott-Clary et al. 2021). While I lack the feel, my attempt also incorporated the loss of breath:
 
     > Beneath that evening's breeze the sickly sweet\
     > and brazen scent of countless flow'rs\
