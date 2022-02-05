@@ -21,10 +21,9 @@ main blockquote {
 .next {
     font-family: "Zen Kurenaido", sans-serif !important;
     display: block;
-    margin: 0 auto;
+    margin: 0.5rem auto 1rem auto;
     font-size: 40pt;
     text-align: center;
     text-decoration: none;
-    font-family: sans-serif;
 }
 

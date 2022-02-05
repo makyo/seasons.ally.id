@@ -22,7 +22,7 @@ No advent waits for the restive dreamer.
 I bandage my tattered, bitten left hand
 And shed the smoke rings on my cloven finger.
 
-[@leaves 8]
+{{% cite "(Dwale 2019, 8)" %}}Dwale. 2019. *Face down in the Leaves*. Weasel Press.{{% /cite %}}
 {{% /verse %}}
 
 The poem follows a similar structure to that chosen for Spring: three stanzas of four lines each, often falling back into a stressed-unstressed (or vice versa) meter, though far more free. We have a few more near rhymes, ('at all' and 'for fall', and, to a lesser extent, 'dreamer' and 'finger'), plus a few pleasing instances of alliteration ('*cri*-*cket*...ci-*ca*-**das**...*ka*-ty-**dids**').
@@ -40,7 +40,7 @@ On the hill of summer
 Stands the slender maiden flower
 In a solitary humor
 
-[@issa 65]
+{{% cite "(Issa and Mackenzie 1957, 65)" %}}Issa, Kobayashi, and (Trans.) Mackenzie Lewis. 1957. *The Autumn Wind: A Selection of Poems by Issa*. John Murray (Publishers) Ltd.{{% /cite %}}
 {{% /verse %}}
 
 The slender maiden flower is the slender maiden flower. We have no say in its existence except that we might pick it, trample it, or leave it be. It is itself, in all its glory --- or at least all its solitary humor. The flower defines itself and though we may take action on it, may think it beautiful or ugly or lonely or austere, that doesn't matter to the flower.[^12]
@@ -58,7 +58,7 @@ Heedless that the tolling bell
 Marks our own closing day ---
 We take this evening's cool
 
-[@issa 39]
+{{% cite "(Issa and Mackenzie 1957, 39)" %}}Issa, Kobayashi, and (Trans.) Mackenzie Lewis. 1957. *The Autumn Wind: A Selection of Poems by Issa*. John Murray (Publishers) Ltd.{{% /cite %}}
 {{% /verse %}}
 
 This is the inverse, the other pole of our spectrum. Whether or not the bell tolls for us and our day, whether or not the evening's cool is of that floating world, we still can define ourselves and our actions in the face of it. We are the ones who can take that cool as some small respite from the hot insomnia that the Summer might otherwise offer. We can define ourselves in that context, and by that, we can define the world around us.
@@ -74,7 +74,7 @@ Flying in a green light,
 Even the bawds of euphony
 Would cry out sharply.
 
-[@blackbird]
+{{% cite "(Stevens 1917)" %}}Stevens, Wallace. 1917. "Thirteen Ways of Looking at a Blackbird." <https://en.wikisource.org/wiki/Thirteen_Ways_of_Looking_at_a_Blackbird>.{{% /cite %}}
 {{% /verse %}}
 
 It is the act of taking meaning from each other, as well, for each of us has our own agency: we can interact with each other and influence each other's definitions of ourselves.[^14]

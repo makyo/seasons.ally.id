@@ -16,7 +16,7 @@ Blackbird headed south
 Down to the hawks and kudzu
 Six months 'til winter
 
-[@dwale_haiku]
+{{% cite "(Dwale 2018)" %}}Dwale. 2018. "*Untitled Haiku*." <https://twitter.com/ThornAppleCider/status/1009137826250625029>.{{% /cite %}}
 {{% /verse %}}
 
 While we are verging into the territory of summer here, as "six months 'til winter" implies, we do get a sense of those expectations settling into place, a feeling of "ah, so the year is going to be like *this*". We also get that sense of growth and greenness with the mention of kudzu, a plant known for its rampant growth, quickly covering all it can in green.
@@ -28,7 +28,7 @@ XII
 The river is moving.
 The blackbird must be flying.
 
-[@blackbird]
+{{% cite "(Stevens 1917)" %}}Stevens, Wallace. 1917. "Thirteen Ways of Looking at a Blackbird." <https://en.wikisource.org/wiki/Thirteen_Ways_of_Looking_at_a_Blackbird>.{{% /cite %}}
 {{% /verse %}}
 
 wherein the thought of a river moving again being of note implies a thaw after a long winter, a world in which this could not possibly be the case without the blackbird also flying. There is a movement thawed, here.
@@ -55,7 +55,7 @@ His daughter nudges him, to no effect.
 She walks away rememb'ring days they stalked the plains,
 Within her womb there grows a golden bloom.
 
-[@leaves 26]
+{{% cite "(Dwale 2019, 26)" %}}Dwale. 2019. *Face down in the Leaves*. Weasel Press.{{% /cite %}}
 {{% /verse %}}
 
 This poem[^6] in three stanzas is largely in an even meter (sometimes iambic, sometimes trochaic), though we are presented with two instances in the first lines of the first two stanzas where that pattern is broken ("The seasonal storms": ˘ -- ˘ ˘ and "And here, wrapped in rain": ˘ -- -- ˘ --). When this is taken with the middle verse's assonance and rhymes, we pick up a sense of a stumble mid-gallop. Although the procession of time may be linear, the procession of the seasons may be interrupted by little stalls, little snowy loops back into winter as spring presses on towards summer.
@@ -75,7 +75,7 @@ Heedless that the dews
 mark the passing of our day ---
 we bind ourselves to others
 
-[@issa 11]
+{{% cite "(Issa and Mackenzie 1957, 11)" %}}Issa, Kobayashi, and (Trans.) Mackenzie Lewis. 1957. *The Autumn Wind: A Selection of Poems by Issa*. John Murray (Publishers) Ltd.{{% /cite %}}
 {{% /verse %}}
 
 Spring is nothing without Winter. Even when it has its own snows, Spring is what it is specifically because it isn't Winter. There's that vernal equinox and then suddenly the days are longer than the nights, the world begins anew, and all that is in it does so as well. As with us: we are nothing without those around us, and we are us specifically because of those in our lives. There is our meeting and then suddenly that which makes us *us* is fuller than before, and we carry within us the golden bloom of who we are to become.
@@ -97,18 +97,18 @@ Floating weeds, as blow
 the winds of the floating world ---
 drifting and drifting
 
-[@issa 18]
+{{% cite "(Issa and Mackenzie 1957, 18)" %}}Issa, Kobayashi, and (Trans.) Mackenzie Lewis. 1957. *The Autumn Wind: A Selection of Poems by Issa*. John Murray (Publishers) Ltd.{{% /cite %}}
 {{% /verse %}}
 
 There is some world that is not ours superimposed on the one we live in. This floating world is that which shows plants as the thirsty mouths that they are, shows the floating weeds as integral parts of the world, rather than some thing to be removed.[^8] Perhaps this is the one that plants experience most clearly, where Spring may nudge Winter and, finding him dead, walk out into new grass and memories.
 
 It is this world that poetry most clearly provides a glimpse into. It contains those symbols which pass fleetingly through our lives, drifting on by as the seasons progress.
 
-"Here is the difference betwixt the poet and the mystic," Emerson cautions. "That the last nails a symbol to one sense, which was a true sense for a moment, but soon becomes old and false.[^9] For all symbols are fluxional." [@emerson 33] We have in Dwale's work a glimpse of the symbol of the hard death of Winter, of Spring with Summer in her belly.
+"Here is the difference betwixt the poet and the mystic," Emerson cautions. "That the last nails a symbol to one sense, which was a true sense for a moment, but soon becomes old and false.[^9] For all symbols are fluxional." {{% cite "(Emerson 1890, 33)" %}}Emerson, Ralph Waldo. 1890. *Essays: Second Series*. Henry Altemus Company.{{% /cite %}} We have in Dwale's work a glimpse of the symbol of the hard death of Winter, of Spring with Summer in her belly.
 
 [^4]: Or perhaps later in life, when cancer may rear its ugly head. It is proving quite difficult to write about even seasons of new growth and beginnings without death-thoughts creeping in.
 
-[^5]: When its friends learned of its passing, many of us decided to memorialize it with poetry of our own [@memorial]. While I lack the feel, my attempt also incorporated the loss of breath:
+[^5]: When its friends learned of its passing, many of us decided to memorialize it with poetry of our own {{% cite "Scott-Clary et al. 2021)" %}}Scott-Clary, Madison et al. 2021. "In Memory of Dwale." <https://forums.furrywritersguild.com/t/in-memory-of-dwale/2359>.{{% /cite %}}. While I lack the feel, my attempt also incorporated the loss of breath:
 
     > Beneath that evening's breeze the sickly sweet\
     > &nbsp;&nbsp;&nbsp;&nbsp;and brazen scent of countless flow'rs\
