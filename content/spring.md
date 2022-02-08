@@ -97,7 +97,7 @@ Floating weeds, as blow
 the winds of the floating world ---
 drifting and drifting
 
-{{% cite "(Issa and Mackenzie 1957, 18)" %}}Issa, Kobayashi, and (Trans.) Mackenzie Lewis. 1957. *The Autumn Wind: A Selection of Poems by Issa*. John Murray (Publishers) Ltd.{{% /cite %}}
+{{% cite "(ibid., 18)" %}}Issa, Kobayashi, and (Trans.) Mackenzie Lewis. 1957. *The Autumn Wind: A Selection of Poems by Issa*. John Murray (Publishers) Ltd.{{% /cite %}}
 {{% /verse %}}
 
 There is some world that is not ours superimposed on the one we live in. This floating world is that which shows plants as the thirsty mouths that they are, shows the floating weeds as integral parts of the world, rather than some thing to be removed.[^8] Perhaps this is the one that plants experience most clearly, where Spring may nudge Winter and, finding him dead, walk out into new grass and memories.
@@ -108,7 +108,7 @@ It is this world that poetry most clearly provides a glimpse into. It contains t
 
 [^4]: Or perhaps later in life, when cancer may rear its ugly head. It is proving quite difficult to write about even seasons of new growth and beginnings without death-thoughts creeping in.
 
-[^5]: When its friends learned of its passing, many of us decided to memorialize it with poetry of our own {{% cite "Scott-Clary et al. 2021)" %}}Scott-Clary, Madison et al. 2021. "In Memory of Dwale." <https://forums.furrywritersguild.com/t/in-memory-of-dwale/2359>.{{% /cite %}}. While I lack the feel, my attempt also incorporated the loss of breath:
+[^5]: When its friends learned of its passing, many of us decided to memorialize it with poetry of our own {{% cite "(Scott-Clary et al. 2021)" %}}Scott-Clary, Madison et al. 2021. "In Memory of Dwale." <https://forums.furrywritersguild.com/t/in-memory-of-dwale/2359>.{{% /cite %}}. While I lack the feel, my attempt also incorporated the loss of breath:
 
     > Beneath that evening's breeze the sickly sweet\
     > &nbsp;&nbsp;&nbsp;&nbsp;and brazen scent of countless flow'rs\

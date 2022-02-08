@@ -58,7 +58,7 @@ Heedless that the tolling bell
 Marks our own closing day ---
 We take this evening's cool
 
-{{% cite "(Issa and Mackenzie 1957, 39)" %}}Issa, Kobayashi, and (Trans.) Mackenzie Lewis. 1957. *The Autumn Wind: A Selection of Poems by Issa*. John Murray (Publishers) Ltd.{{% /cite %}}
+{{% cite "(ibid., 39)" %}}Issa, Kobayashi, and (Trans.) Mackenzie Lewis. 1957. *The Autumn Wind: A Selection of Poems by Issa*. John Murray (Publishers) Ltd.{{% /cite %}}
 {{% /verse %}}
 
 This is the inverse, the other pole of our spectrum. Whether or not the bell tolls for us and our day, whether or not the evening's cool is of that floating world, we still can define ourselves and our actions in the face of it. We are the ones who can take that cool as some small respite from the hot insomnia that the Summer might otherwise offer. We can define ourselves in that context, and by that, we can define the world around us.
