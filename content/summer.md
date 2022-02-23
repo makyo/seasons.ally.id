@@ -1,5 +1,6 @@
 ---
 title: Summer
+next: autumn
 ---
 
 As the year continues on its upward spiral, we come to one of those strange apogees of the longest day. Strange because yes, of course it bears meaning as the longest day, and yet the start of Summer never seems to fall directly on that day, does it? There is doubtless some good reason that, at least here, that is the first day of summer rather than midsummer.

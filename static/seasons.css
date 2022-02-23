@@ -4,8 +4,17 @@ body * {
     font-family: "Gentium Basic", serif;
 }
 
-h1, h1 a, h2 {
-    font-family: "Zen Kurenaido", sans-serif !important;
+h1 small span:before {
+    content: " ";
+    display: block;
+    border-top: 1px solid currentcolor;
+    width: 45%;
+    height: 0.5rem;
+}
+h1 small span {
+    font-weight: normal;
+    display: inline-block;
+    margin-top: 3rem;
 }
 
 a, a:active, a:hover, a:visited {
@@ -18,6 +27,9 @@ main {
 main blockquote {
     border: none;
 }
+main h1 {
+    font-weight: normal;
+}
 .next {
     font-family: "Zen Kurenaido", sans-serif !important;
     display: block;
@@ -26,4 +38,6 @@ main blockquote {
     text-align: center;
     text-decoration: none;
 }
-
+.phantom {
+    visibility: hidden;
+}
