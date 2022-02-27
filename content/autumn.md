@@ -146,7 +146,7 @@ We are helpless before the onward spiral of the year.
     So here am I, bathed in white cultural protestantism and puritan work ethics, having nothing to hang my grief on but a desire for resolution, for even a hint at a framework. Five years after Margaras's death, when I was still trying to process what life without him would actually be like, I wrote:
     
     > *Yit'gadal v'yit'kadash sh'mei raba*\
-    > Would that I had thefaith\
+    > Would that I had the faith\
     > To pray daily.\
     > Eleven months to let you go,\
     > And an amen to end the sorrow.
