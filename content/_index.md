@@ -6,6 +6,6 @@ next: intro
 
 ## Content note
 
-This document contains frank discussions of death and grief, including descriptions of the euthanasia of a pet.
+This document contains frank discussions of death and grief, including descriptions of the euthanasia of a pet (marked with ⚠ ).
 
 [^pdf]: Available for download [here](/seasons.pdf).
