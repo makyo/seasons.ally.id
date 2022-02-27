@@ -15,16 +15,16 @@ It's easy to lean on one or the other. Keats, for example, is impressively himse
 *To Autumn*
 
 Season of mists and mellow fruitfulness,
-Close bosom-friend of the maturing sun;
+&nbsp; &nbsp; Close bosom-friend of the maturing sun;
 Conspiring with him how to load and bless
-With fruit the vines that round the thatch-eves run;
+&nbsp; &nbsp; With fruit the vines that round the thatch-eves run;
 To bend with apples the moss'd cottage-trees,
-And fill all fruit with ripeness to the core;
-To swell the gourd, and plump the hazel shells
-With a sweet kernel; to set budding more,
+&nbsp; &nbsp; And fill all fruit with ripeness to the core;
+&nbsp; &nbsp; &nbsp; &nbsp; To swell the gourd, and plump the hazel shells
+&nbsp; &nbsp; With a sweet kernel; to set budding more,
 And still more, later flowers for the bees,
 Until they think warm days will never cease,
-For Summer has o'er-brimm'd their clammy cells.[^21]
+&nbsp; &nbsp; &nbsp; &nbsp; For Summer has o'er-brimm'd their clammy cells.[^21]
 
 {{% cite source="keats" page="249" %}}
 {{% /verse %}}
