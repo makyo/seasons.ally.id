@@ -129,7 +129,7 @@ It is this world that poetry most clearly provides a glimpse into. It contains t
 
     Perhaps it is the idea of the cessation of the cyclical nature of breath that brings with it thoughts of death.
 
-[^7]: A dandelion, perhaps, those yellow suns dotting perfect fields a perennial memory of summer. I always thought they smelled of muffins.
+[^7]: A dandelion, perhaps, those yellow suns dotting perfect fields a perennial memory of summer. As May put it:
 
     > "What I love is their scent." She held it up for em to sniff. "They smell like muffins. How can anything that smells like muffins be bad?"
     >
