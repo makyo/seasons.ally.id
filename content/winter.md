@@ -79,7 +79,7 @@ In yet unmelted tracks
 
 "As Earth stirs in her winter sleep," he writes elsewhere {{% cite source="graves_poems" page="173" %}}. "And puts out grass and flowers / Despite the snow / Despite the falling snow." Winter has crept in and tucked the world away to sleep for a while, and though we might stretch and peek out and, seeing the sun, think to ourselves, "I really must get up," we are helpless to actually do so. Make attempts, sure, but there is no waking from Winter on any terms other than Winter's.
 
-It plays into the timelessness of that serenity.[^37] It is so quiet![^38] It The contrast is so high! Morning light is the same as noon light is the same as afternoon light. How could time pass? Winter will not permit it.
+It plays into the timelessness of that serenity.[^37] It is so quiet![^38] The contrast is so high! Morning light is the same as noon light is the same as afternoon light. How could time pass? Winter will not permit it.
 
 {{% verse %}}
 XIII
