@@ -9,7 +9,7 @@ theme = 'maddybook'
 [params]
     author = 'Madison Scott-Clary'
     home = 'https://makyo.ink'
-    copyright = 2021
+    copyright = 2022
     customCSS = ['https://fontlibrary.org/face/coelacanth', '/seasons.css']
 
 [markup.goldmark.renderer]
