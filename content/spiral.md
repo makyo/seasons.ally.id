@@ -20,7 +20,7 @@ Elliot Weinberger, in his survey of translations centuries of translations of on
 
 By virtue of the reader's ever-shifting state of mind, they constantly re-translate otherwise static text, even from minute to minute, and build up a library of meaning from a single work. Reading a poem is as much a form of self-definition as it is of entertainment.
 
-The spiral of the year, of the month, of the day applies as well to the poem, the stanza, the line. We've spiraled our way from spring to spring. We've spiraled our way upwards, using on its seasonal poetry as synecdoche for seasonality in poetry as a whole, through each of those seasons, and so the only fitting end is to use one last poem of Dwale's as a synecdoche for poem as spiral. We can read a microcosm of the spiraling year into a single poem. Start at the beginning, and when you get to the end, start over because you're already a different person.[^49]
+The spiral of the year, of the month, of the day applies as well to the poem, the stanza, the line. We've spiraled our way from spring to spring. We've spiraled our way upwards, using on its seasonal poetry as synecdoche for seasonality in poetry as a whole, through each of those seasons, and so the only fitting end is to use one last poem of Dwale's as a synecdoche for poem-as-spiral. We can read a microcosm of the spiraling year into a single poem. Start at the beginning, and when you get to the end, start over because you're already a different person.[^49]
 
 And so, one more time before setting aside the topic to steep for another year, let us address one of Dwale's poems:
 

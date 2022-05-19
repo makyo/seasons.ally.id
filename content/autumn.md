@@ -135,7 +135,7 @@ We think of it. We don't smile when we do.
 
 [^26]: Even if that something is time.
 
-[^27]: Were you buried, Dwale? I realize that I don't actually know. When Idun passed on news of your passing, she also asked what observances should be made for a Muslim who has passed. I know that expressing one's wishes for when one dies are not always something does with one's partner --- hell, I don't know that any of my partners and I have talked about it, though it *is* in my will --- but it does make me wonder: were those customs upheld?[^27-1] I realized, also, that I don't know how much of your identity was known by your family. I have to interpret your life only to the extent that I can interpret your poetry: I haven't the ear, I have only the words, and you are not around to ask.
+[^27]: Were you buried, Dwale? I realize that I don't actually know. When Idun passed on news of your passing, she also asked what observances should be made for a Muslim who has passed. I know that expressing one's wishes for when one dies is not always something does with one's partner --- hell, I don't know that any of my partners and I have talked about it, though it *is* in my will --- but it does make me wonder: were those customs upheld?[^27-1] I realized, also, that I don't know how much of your identity was known by your family. I have to interpret your life only to the extent that I can interpret your poetry: I haven't the ear, I have only the words, and you are not around to ask.
 
 [^27-1]: Every time I take the long way home from the store because traffic sucks or highway 2 is too much, I think about stopping by the mosque that I pass and asking about this. It's always also couched in that selfish desire to also ask after a framework for dealing with grief.
 
@@ -157,7 +157,7 @@ We think of it. We don't smile when we do.
 
 [^29]: Who knows how much of my skittishness around winter is a me thing or an us thing. Spare me a little longer.
 
-[^30]: After all, I think our well was out into Autumn, or maybe it had *just* recovered. We were borrowing water from the neighbors for the dogs --- Falcon, who was dying, and Zephyr, who probably knew. I had burnt out so hard at work I had to take a leave of absence, had to spend sixteen hours a week in therapy, and on going back to work realized I still hated everything. I'm unsure even now whether life would have been easier without that grief. There is now dialectic between you being alive, of course, but there is this dialectic within me being unsure of whether or or not I've processed your death.[^30-1] Sometimes I have, and sometimes I have to stop writing this essay for five days because looking at it makes me cry.
+[^30]: After all, I think our well was out into Autumn, or maybe it had *just* recovered. We were borrowing water from the neighbors for the dogs --- Falcon, who was dying, and Zephyr, who probably knew. I had burnt out so hard at work I had to take a leave of absence, had to spend sixteen hours a week in therapy, and on going back to work realized I still hated everything. I'm unsure even now whether life would have been easier without that grief. There is now dialectic between you being alive, of course, but there is this dialectic within me being unsure of whether or not I've processed your death.[^30-1] Sometimes I have, and sometimes I have to stop writing this essay for five days because looking at it makes me cry.
 
 [^30-1]: ⚠
 

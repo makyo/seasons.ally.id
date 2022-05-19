@@ -257,7 +257,7 @@ How hard the year dies, and yet there is Spring. She has walked the grassy flat 
 
 [^42-2]: Or, at least. I know I do. I know that I'm stuck with those death-thoughts, the ones that won't leave, will only curl up into a little purring ball in the corner of my mind, unwilling to let me out of its sight.
 
-    Only, sometimes it feels it must traipse across my lap as cats[^42-3] do, bunting its head against my arms, needle-sharp claws digging into my thighs, demanding that it receive the attention its due. "Think of me," it says. "Think of me and dream of me. Pet me and stroke me. Let me know that you love me, in your own fearful way."
+    Only, sometimes it feels it must traipse across my lap as cats[^42-3] do, bunting its head against my arms, needle-sharp claws digging into my thighs, demanding that it receive the attention it's due. "Think of me," it says. "Think of me and dream of me. Pet me and stroke me. Let me know that you love me, in your own fearful way."
 
 [^42-3]: Death, a constant, refuses to leave. I start writing this essay on death, and then the vet calls: your cat's asthma isn't asthma, it's metastatic lung cancer. Just keep her comfortable.
 
