@@ -27,7 +27,7 @@ Perhaps it is because we so often experience Winter through the lens of contrast
 
 Or perhaps we think of Winter this way, of snow as a blanket, of sleepy silences, because the world really does seem to be asleep. It goes beyond mere hibernation; the whole world --- the Earth, the sky, the rivers and lakes --- all seem to be asleep. "I wonder if the snow loves the trees and fields," Lewis Carroll writes {{% cite source="carroll" %}}. "That it kisses them so gently? And then it covers them up snug, you know, with a white quilt, and perhaps it says, "Go to sleep, darlings, till the summer comes again.""
 
-Even the snow itself seems destined for sleep, drifting down lazily in fat clumps or being blown nearly sideways, helpless, only to be piled up in immobile drifts.[^34] It's destined for sleep because what else would a blanket do?
+Even the snow itself seems destined for sleep, drifting down in fat clumps or being blown nearly sideways, helpless, only to be piled up in immobile drifts.[^34] It's destined for sleep because what else would a blanket do?
 
 {{% verse %}}
 I.

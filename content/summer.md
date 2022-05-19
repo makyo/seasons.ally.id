@@ -46,7 +46,7 @@ In a solitary humor
 
 The slender maiden flower is the slender maiden flower. We have no say in its existence except that we might pick it, trample it, or leave it be. It is itself, in all its glory --- or at least all its solitary humor. The flower defines itself and though we may take action on it, may think it beautiful or ugly or lonely or austere, that doesn't matter to the flower.[^15]
 
-"Summer, season of hot insomnia / That much never seems to change at all" speaks well to this. Summer is Summer. It is the season of hot insomnia and it doesn't care how tired we are. It's not that it is inimical to us so much as existing within its own external nature. It exists in that floating world that is separate from us. It does not know us, it knows only itself. It's hyperreal, perhaps, only casting its shadow into our reality.[^16]
+"Summer, season of hot insomnia / That much never seems to change at all" speaks well to this. Summer is Summer. It is the season of hot insomnia and it doesn't care how tired we are. It's not that it is inimical to us so much as existing within its own external nature. It exists in that floating world that is separate from us. It does not know us, it knows only itself. It's hyperreal, perhaps, only casting its shadow into our reality.<!--[^16]-->
 
 "Sleep, or don't." Summer yawns, lingers beneath the eaves and between still branches, bothers not with such as us.
 
@@ -100,9 +100,9 @@ As that golden bloom of Summer[^18] defines itself as all things must, and we ha
 
 [^15-1]: Of course, having written this, I feel bad for the flower. Perhaps it desperately wants to be seen as austere instead of lonely, as beautiful instead of ugly. Ask a botanist.
 
-[^16]: It was briefly hinted by its partner that Dwale's death may have been an overdose --- or at least a drug-induced accident --- due to a heroic dose of DXM. I don't know if this is true, and the tweet where she suggested this has since been deleted. Hell, I don't even know if I was meant to see that information. Still, it sticks in the mind. On mentioning my own explorations into mushrooms as a way to set aside, for a few weeks, the obstinate burden of depression, Dwale readily agreed that this would probably be good for me. It seemed knowledgeable, as though it knew that smear of other reality (or hyperreality) well enough.
+<!--[^16]: It was briefly hinted by its partner that Dwale's death may have been an overdose --- or at least a drug-induced accident --- due to a heroic dose of DXM. I don't know if this is true, and the tweet where she suggested this has since been deleted. Hell, I don't even know if I was meant to see that information. Still, it sticks in the mind. On mentioning my own explorations into mushrooms as a way to set aside, for a few weeks, the obstinate burden of depression, Dwale readily agreed that this would probably be good for me. It seemed knowledgeable, as though it knew that smear of other reality (or hyperreality) well enough.
 
-    If this story of its death *is* the case, then that makes me wonder just what those last hours, last minutes, last seconds might have contained. Was it filled with pleasure? Did it, as a Muslim, feel closer to Allah? Did it know what it had done, panic, and try to retreat? Terror hems these thoughts in.
+    If this story of its death *is* the case, then that makes me wonder just what those last hours, last minutes, last seconds might have contained. Was it filled with pleasure? Did it, as a Muslim, feel closer to Allah? Did it know what it had done, panic, and try to retreat? Terror hems these thoughts in.-->
 
 [^17]: Viz. me meeting Dwale in the writers' guild and deciding --- actively deciding --- that I would like to be its friend. It wasn't lacking, and neither was I, but something about someone who might choose 'it/its' as pronouns, someone who could engage with poetry in a way that had always eluded me. Doubt nips at my heels, though. Is "deciding to be someone's friend" a normal thing to do? Was that weird? Did it resent me for-- but I shouldn't be thinking like this.
 

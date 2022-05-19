@@ -77,7 +77,7 @@ And we, perhaps, are food for that ground.[^27] This idea that we, too, might be
 
 And yet there is another layer of lacking here: we lack the absent interlocutor. *We* have buried *our* dreams, here, those dreams where *I* know the scent of *you*. This, as before, features a turn from the external and impersonal to the internal and personal. Toward the end of the first verse, after language surrounding the world around us, we get not only an action that we take (and how delightful, that homonym in 'tears'), but the feeling of despairing that comes with it.
 
-Autumn is, it seems, a dialectic: two things can be true at the same time. Plenty and paucity. Alive and dead. Impersonal and personal. There is an eternety between each of those sets of truths, as though Autumn, more so than the rest of the seasons, holds on the longest. "How hard the year dies: no frost yet," Graves writes in *Intercession in Late October*. {{% cite source="graves_intercession" page="23" %}} "Spare him a little longer, Crone / For his clean hands and love-submissive heart."[^29]
+Autumn is, it seems, a dialectic: two things can be true at the same time. Plenty and paucity. Alive and dead. Impersonal and personal. There is an eternity between each of those sets of truths, as though Autumn, more so than the rest of the seasons, holds on the longest. "How hard the year dies: no frost yet," Graves writes in *Intercession in Late October*. {{% cite source="graves_intercession" page="23" %}} "Spare him a little longer, Crone / For his clean hands and love-submissive heart."[^29]
 
 Issa says,
 
@@ -95,8 +95,6 @@ Or so it seems.
 
 Despite being the in-between of Summer and Winter, something that seems as though it ought to be a smooth transition between hot and cold as Spring tried to be, Autumn steadfastly refuses to be anything other than its own entity. We are unsure[^30] of whether or not we like Autumn;[^31] surely some seem to, but this duality makes it elusive. Rather than shy away from it and decide to let it sit or cleave to it and enjoy every minute, we always have a little bit of that space between ourselves and the season, a little bit of that eternity.
 
-We think of it. We don't smile when we do.
-
 Issa says,
 
 {{% verse %}}
@@ -111,7 +109,7 @@ As the years advance
 {{% cite source="issa" page="11" %}}
 {{% /verse %}}
 
-We are helpless before the onward spiral of the year.
+We think of it. We don't smile when we do.
 
 [^20]: Or perhaps a fear. Halloween lies there, doesn't it? There is a terror to your work, something existential, but you were also a fan of horror. Your story was going to be the one that started that other fiction podcast we were planning on, where bummers were welcome to complete the dichotomy[^20-1] with The Voice of Dog where there were none.
 
