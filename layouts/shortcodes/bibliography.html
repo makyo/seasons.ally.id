@@ -1,0 +1,8 @@
+<style>
+ol {
+    list-style-type: decimal;
+}
+</style>
+{{ range $.Site.Data.bibliography }}
+1. {{ .entry }}
+{{ end }}
