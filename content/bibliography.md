@@ -2,5 +2,5 @@
 title: Bibliography
 ---
 
-{{% bibliography %}}
+{{% bibliography "bibliography" %}}
 

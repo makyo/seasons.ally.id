@@ -3,6 +3,7 @@ ol {
     list-style-type: decimal;
 }
 </style>
-{{ range $.Site.Data.bibliography }}
+{{ $data := index $.Site.Data (.Get 0) }}
+{{ range $data }}
 1. {{ .entry }}
 {{ end }}
